@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.5.8">
+<ModelTarget name="rubiks_cube" targetId="85c4a096550a4d489174da8b3e043e00" version="11.1" toolVersion="8.5.8" bbox="-0.035940 0.014494 -0.035940 0.035940 0.085594 0.035940" previewImage="85c4a096550a4d489174da8b3e043e00_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="rubiks_cubes_assembly" assemblyId="af861dd5f1f34874b62bdcc5bb7ceafc">
+<Part name="rubiks_cube" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00115997 0.0361695 0.208584" rotation="AD: 0.9989091127289409 0.1262747754067195 -0.418331960857124 210.918" image="rubiks_cube_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

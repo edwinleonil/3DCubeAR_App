@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="rubiks_cube" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="rubiks_cubes_assembly" assemblyId="af861dd5f1f34874b62bdcc5bb7ceafc">
+<Part name="rubiks_cube" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00115997 0.0361695 0.208584" rotation="AD: 0.9989091127289409 0.1262747754067195 -0.418331960857124 210.918" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
